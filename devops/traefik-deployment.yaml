@@ -108,7 +108,6 @@ data:
           # Optional
           # Default: "traefik"
           #
-          entryPoint = "metrics"
 
           # Buckets for latency metrics
           #
